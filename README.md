@@ -16,6 +16,7 @@
 - 🎨 **UI/UX Enthusiast:** Creating pixel-perfect, responsive designs that prioritize user experience
 - 🛠️ **DevOps & Cloud:** Experience with **AWS, Vercel, Docker, and CI/CD pipelines**
 - 💼 **Freelancer & Entrepreneur:** Running **ArtArkTech** - delivering innovative digital solutions
+- [artarktech-company.vercel.app](https://artarktech-company.vercel.app/)
 - 🎯 **2024 Goals:** Master AI integration in web applications and launch 3 SaaS products
 - ⚡ **Fun Fact:** *East or West, home is the best!* 🏠 Also, I can debug code faster with coffee ☕
 
@@ -24,21 +25,10 @@
 ## 🛠️ Tech Stack & Tools
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+React, Next.js, Vue.js, TypeScript, JavaScript, TailwindCSS, HTML5, CSS3
 
 ### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+Node.js, Python, Express.js, Django, FastAPI
 
 ### **Databases & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,8 +39,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+React Native, Flutter, Ionic
 
 ### **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -135,7 +124,7 @@
 
 ---
 
-## 🎯 2024 Goals & Aspirations
+## 🎯 2025 Goals & Aspirations
 
 - [ ] Master **TensorFlow** and build 3 AI-integrated applications
 - [ ] Contribute to **5 open-source projects**
@@ -159,12 +148,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
 
-## 🎵 Currently Vibing To
-[![Spotify](https://novatorem-markmote1.vercel.app/api/spotify)](https://open.spotify.com/user/markmote1)
-
----
 
 <div align="center">
   
