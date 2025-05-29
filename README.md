@@ -1,120 +1,118 @@
-# 👋 Hey there, I'm Mark Mote (@markmote1)
+# <span style="color: #00D9FF;">👋 Hey there, I'm Mark Mote (@markmote1)</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Mobile+App+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Mobile+App+Developer;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
-🚀 **Passionate Full Stack Developer** specializing in building sleek, scalable, and user-centric web, Android, and iOS applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 **Currently Exploring:** Deep diving into **Python, AI/ML, and Data Science** to expand my technical horizons
-- 🌐 **Web Development Expert:** Proficient in modern frameworks and technologies including **Next.js, React, Vue.js, Supabase, Node.js, MongoDB, PostgreSQL, and TailwindCSS**
-- 📱 **Mobile Development:** Building cross-platform applications for **Android & iOS** using React Native and Flutter
-- 🎨 **UI/UX Enthusiast:** Creating pixel-perfect, responsive designs that prioritize user experience
-- 🛠️ **DevOps & Cloud:** Experience with **AWS, Vercel, Docker, and CI/CD pipelines**
-- 💼 **Freelancer & Entrepreneur:** Running **ArtArkTech** - delivering innovative digital solutions
-- [artarktech-company.vercel.app](https://artarktech-company.vercel.app/)
-- 🎯 **2024 Goals:** Master AI integration in web applications and launch 3 SaaS products
-- ⚡ **Fun Fact:** *East or West, home is the best!* 🏠 Also, I can debug code faster with coffee ☕
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Frontend Development**
-React, Next.js, Vue.js, TypeScript, JavaScript, TailwindCSS, HTML5, CSS3
-
-### **Backend Development**
-Node.js, Python, Express.js, Django, FastAPI
-
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### **Mobile Development**
-React Native, Flutter, Ionic
-
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🎨 **ArtArkTech Company Website**
-> Modern, responsive business website with glassmorphism design
-- **Tech Stack:** Next.js, TailwindCSS, Framer Motion
-- **Features:** Dynamic animations, responsive design, contact forms
-- **Live Demo:** [artarktech-company.vercel.app](https://artarktech-company.vercel.app/)
-
-### 📱 **AI-Powered Mobile App** *(Coming Soon)*
-> Cross-platform app integrating machine learning for personalized user experiences
-- **Tech Stack:** React Native, Python FastAPI, TensorFlow
-- **Features:** AI recommendations, real-time data processing, offline capabilities
-
-### 🛍️ **E-Commerce Platform** *(In Development)*
-> Full-stack e-commerce solution with modern payment integration
-- **Tech Stack:** Next.js, Supabase, Stripe, TailwindCSS
-- **Features:** Admin dashboard, inventory management, analytics
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmote1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmote1&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markmote1&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markmote1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+<div align="center" style="margin: 30px 0;">
+  <span style="font-size: 18px; color: #E0E0E0; font-family: 'Inter', sans-serif;">🚀 Passionate Full Stack Developer specializing in building sleek, scalable, and user-centric applications</span>
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## <span style="color: #C77DFF;">🧑‍💻 About Me</span>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=markmote1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; margin: 20px 0;">
 
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-artarktech.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://artarktech-company.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-markmote12@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markmote12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark_Mote-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/markmote)
-[![Twitter](https://img.shields.io/badge/Twitter-@markmote1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/markmote1)
-[![GitHub](https://img.shields.io/badge/GitHub-markmote1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/markmote1)
+- 🔭 <span style="color: #00D9FF;">**Currently Exploring:**</span> Deep diving into **Python, AI/ML, and Data Science** to expand my technical horizons
+- 🌐 <span style="color: #FF6B9D;">**Web Development Expert:**</span> Proficient in **Next.js, React, Supabase, Node.js, MongoDB, PostgreSQL, TailwindCSS**
+- 📱 <span style="color: #C77DFF;">**Mobile Development:**</span> Building cross-platform applications for **Android & iOS** using React Native and Flutter
+- 🎨 <span style="color: #00D9FF;">**UI/UX Enthusiast:**</span> Creating pixel-perfect, responsive designs that prioritize user experience
+- 🛠️ <span style="color: #FF6B9D;">**DevOps & Cloud:**</span> Experience with **AWS, Vercel, Docker, and CI/CD pipelines**
+- 💼 <span style="color: #C77DFF;">**Freelancer & Entrepreneur:**</span> Running **ArtArkTech** - delivering innovative digital solutions
+- 🎯 <span style="color: #00D9FF;">**2024 Goals:**</span> Master AI integration in web applications and launch 3 SaaS products
+- ⚡ <span style="color: #FF6B9D;">**Fun Fact:**</span> *East or West, home is the best!* 🏠 Also, I can debug code faster with coffee ☕
 
 </div>
 
 ---
 
-## 💡 What I'm Currently Working On
+## <span style="color: #FF6B9D;">🛠️ Tech Stack & Tools</span>
+
+### <span style="color: #00D9FF;">Frontend Development</span>
+React • Next.js • Vue.js • TypeScript • JavaScript • TailwindCSS • HTML5 • CSS3
+
+### <span style="color: #C77DFF;">Backend Development</span>
+Node.js • Python • Express.js • Django • FastAPI
+
+### <span style="color: #FF6B9D;">Databases & Cloud</span>
+MongoDB • PostgreSQL • Supabase • Firebase • AWS • Vercel
+
+### <span style="color: #00D9FF;">Mobile Development</span>
+React Native • Flutter • Ionic
+
+### <span style="color: #C77DFF;">AI/ML & Data Science</span>
+TensorFlow • Pandas • NumPy • OpenAI • Scikit-learn
+
+### <span style="color: #FF6B9D;">Tools & DevOps</span>
+Git • Docker • VS Code • Figma • Postman • Linux
+
+---
+
+## <span style="color: #C77DFF;">🚀 Featured Projects</span>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+<div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #00D9FF; width: 300px; margin: 10px;">
+<h3 style="color: #00D9FF; margin-top: 0;">🎨 ArtArkTech Company Website</h3>
+<p style="color: #E0E0E0; font-size: 14px;">Modern, responsive business website with glassmorphism design</p>
+<p><span style="color: #FF6B9D;">**Tech:**</span> Next.js, TailwindCSS, Framer Motion</p>
+<p><span style="color: #C77DFF;">**Features:**</span> Dynamic animations, responsive design, contact forms</p>
+<a href="https://artarktech-company.vercel.app/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; width: 300px; margin: 10px;">
+<h3 style="color: #FF6B9D; margin-top: 0;">📱 AI-Powered Mobile App</h3>
+<p style="color: #E0E0E0; font-size: 14px;"><em>Coming Soon</em> - Cross-platform app integrating machine learning</p>
+<p><span style="color: #C77DFF;">**Tech:**</span> React Native, Python FastAPI, TensorFlow</p>
+<p><span style="color: #00D9FF;">**Features:**</span> AI recommendations, real-time processing, offline capabilities</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #C77DFF; width: 300px; margin: 10px;">
+<h3 style="color: #C77DFF; margin-top: 0;">🛍️ E-Commerce Platform</h3>
+<p style="color: #E0E0E0; font-size: 14px;"><em>In Development</em> - Full-stack e-commerce solution</p>
+<p><span style="color: #FF6B9D;">**Tech:**</span> Next.js, Supabase, Stripe, TailwindCSS</p>
+<p><span style="color: #00D9FF;">**Features:**</span> Admin dashboard, inventory management, analytics</p>
+</div>
+
+</div>
+
+---
+
+## <span style="color: #00D9FF;">📊 GitHub Analytics</span>
+
+<div align="center" style="margin: 30px 0;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markmote1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=FF6B9D&icon_color=00D9FF&text_color=E0E0E0&bg_color=0f0f23"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmote1&layout=compact&langs_count=8&theme=tokyonight&title_color=FF6B9D&text_color=E0E0E0&bg_color=0f0f23"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markmote1&theme=tokyonight&ring=FF6B9D&fire=00D9FF&currStreakLabel=C77DFF&background=0f0f23" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markmote1&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=E0E0E0&line=FF6B9D&point=00D9FF" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## <span style="color: #FF6B9D;">🏆 GitHub Achievements</span>
+
+<div align="center" style="margin: 30px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=markmote1&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+</div>
+
+---
+
+## <span style="color: #C77DFF;">🤝 Let's Connect & Collaborate</span>
+
+**Website:** [artarktech-company.vercel.app](https://artarktech-company.vercel.app/) • **Email:** markmote12@gmail.com • **LinkedIn:** [Mark Mote](https://linkedin.com/in/markmote) • **Twitter:** [@markmote1](https://twitter.com/markmote1) • **GitHub:** [markmote1](https://github.com/markmote1)
+
+---
+
+## <span style="color: #00D9FF;">💡 What I'm Currently Working On</span>
+
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; border: 1px solid #C77DFF; margin: 20px 0;">
 
 - 🤖 Building an **AI-powered web application** that helps developers optimize their code
 - 📚 Learning **Machine Learning algorithms** and their practical applications
@@ -122,9 +120,11 @@ React Native, Flutter, Ionic
 - 📖 Writing technical blogs about **modern web development practices**
 - 🚀 Planning to launch **ArtArkTech Academy** - online coding bootcamp
 
+</div>
+
 ---
 
-## 🎯 2025 Goals & Aspirations
+## <span style="color: #FF6B9D;">🎯 2025 Goals & Aspirations</span>
 
 - [ ] Master **TensorFlow** and build 3 AI-integrated applications
 - [ ] Contribute to **5 open-source projects**
@@ -135,29 +135,25 @@ React Native, Flutter, Ionic
 
 ---
 
-## 📈 Coding Activity
+## <span style="color: #C77DFF;">📈 Coding Activity</span>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<div align="center" style="margin: 40px 0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=FF6B9D&author_color=00D9FF&bg_color=0f0f23" alt="Random Dev Quote" />
 </div>
 
-
-
-<div align="center">
+<div align="center" style="margin: 40px 0;">
   
-### 🌟 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### <span style="color: #FF6B9D;">🌟 *"Code is like humor. When you have to explain it, it's bad."* – Cory House</span>
 
-**Thanks for stopping by!** ⭐️ 
+<span style="color: #00D9FF; font-size: 18px;">**Thanks for stopping by!**</span> ⭐️ 
 
-*If you like what you see, don't forget to star some repositories and follow for more awesome projects!*
+<span style="color: #E0E0E0;">*If you like what you see, don't forget to star some repositories and follow for more awesome projects!*</span>
 
-<img src="https://komarev.com/ghpvc/?username=markmote1&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=markmote1&color=FF6B9D&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" style="margin-top: 20px;" />
 
 </div>
