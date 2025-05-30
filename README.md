@@ -1,16 +1,16 @@
-# <span style="color: #00D9FF;">👋 Hey there, I'm Mark Mote (@markmote1)</span>
+# <span style="color: #00D9FF;">👋 Cheki, I'm Mark Mote</span> <span>Tusonge Nalo!<span/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Mobile+App+Developer;Creative+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <span style="font-size: 18px; color: #E0E0E0; font-family: 'Inter', sans-serif;">🚀 Passionate Full Stack Developer specializing in building sleek, scalable, and user-centric applications</span>
+  <span style="font-size: 18px; color: #E0E0E0; font-family: 'Inter', sans-serif;">🚀 Passionate-Self Learned Full Stack Developer specializing in building sleek, scalable, and user-centric applications</span>
 </div>
 
 ---
 
-## <span style="color: #C77DFF;">🧑‍💻 About Me</span>
+## <span style="color: #C77DFF;">🧑‍💻 About Me/Nijue</span>
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; margin: 20px 0;">
 
