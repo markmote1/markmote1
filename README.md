@@ -62,16 +62,16 @@ Git • Docker • VS Code • Figma • Postman • Linux
 </div>
 
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; width: 300px; margin: 10px;">
-<h3 style="color: #FF6B9D; margin-top: 0;">📱 AI-Powered Mobile App</h3>
-<p style="color: #E0E0E0; font-size: 14px;"><em>Coming Soon</em> - Cross-platform app integrating machine learning</p>
-<p><span style="color: #C77DFF;">**Tech:**</span> React Native, Python FastAPI, TensorFlow</p>
-<p><span style="color: #00D9FF;">**Features:**</span> AI recommendations, real-time processing, offline capabilities</p>
+<h3 style="color: #FF6B9D; margin-top: 0;">📱MERN App AI-Powered Blog App</h3>
+<p style="color: #E0E0E0; font-size: 14px;"><em>Coming Soon</em> - Ai-powered blog app</p>
+<p><span style="color: #C77DFF;">**Tech:**</span> MongoDB, Express, React and Node JS, Google Gemini, Motion, imageKit API</p>
+<p><span style="color: #00D9FF;">**Features:**</span> AI generation, Admin page- where admin can post a new blog and manage existing blogs and comments, </p>
 </div>
 
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #C77DFF; width: 300px; margin: 10px;">
 <h3 style="color: #C77DFF; margin-top: 0;">🛍️ E-Commerce Platform</h3>
 <p style="color: #E0E0E0; font-size: 14px;"><em>In Development</em> - Full-stack e-commerce solution</p>
-<p><span style="color: #FF6B9D;">**Tech:**</span> Next.js, Supabase, Stripe, TailwindCSS</p>
+<p><span style="color: #FF6B9D;">**Tech:**</span> Next.js, Supabase, Stripe, Mpesa, Paypal, TailwindCSS</p>
 <p><span style="color: #00D9FF;">**Features:**</span> Admin dashboard, inventory management, analytics</p>
 </div>
 
@@ -114,11 +114,11 @@ Git • Docker • VS Code • Figma • Postman • Linux
 
 <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; border: 1px solid #C77DFF; margin: 20px 0;">
 
-- 🤖 Building an **AI-powered web application** that helps developers optimize their code
+- 🤖 Building an **AI-powered blog web application** that generates blogs
 - 📚 Learning **Machine Learning algorithms** and their practical applications
-- 🎨 Designing a **component library** for faster React development
+- 🎨 Designing an **ecommerce** for selling tech products
 - 📖 Writing technical blogs about **modern web development practices**
-- 🚀 Planning to launch **ArtArkTech Academy** - online coding bootcamp
+- 🚀 Planning to launch **Tech Blog** - my personal ai powered blogapp
 
 </div>
 
@@ -137,8 +137,7 @@ Git • Docker • VS Code • Figma • Postman • Linux
 
 ## <span style="color: #C77DFF;">📈 Coding Activity</span>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ---
 
