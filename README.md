@@ -108,7 +108,7 @@ Git • Docker • VS Code • Figma • Postman • Linux
 
 ## <span style="color: #C77DFF;">🤝 Let's Connect & Collaborate</span>
 
-**Website:** [artarktech-company.vercel.app](https://artarktech-company.vercel.app/) • **Email:** markmote12@gmail.com • **LinkedIn:** [Mark Mote](https://linkedin.com/in/markmote) • **Twitter:** [@markmote1](https://twitter.com/markmote1) • **GitHub:** [markmote1](https://github.com/markmote1)
+
 
 ---
 
