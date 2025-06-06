@@ -135,13 +135,6 @@ Git • Docker • VS Code • Figma • Postman • Linux
 - [ ] Speak at **2 tech conferences** about modern web development
 - [ ] Mentor **10 junior developers** in their coding journey
 
----
-
-## <span style="color: #C77DFF;">📈 Coding Activity</span>
-
-
-
----
 
 <div align="center" style="margin: 40px 0;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote_color=FF6B9D&author_color=00D9FF&bg_color=0f0f23" alt="Random Dev Quote" />
