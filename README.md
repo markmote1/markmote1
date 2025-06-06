@@ -27,29 +27,6 @@
 </div>
 
 ---
-
-## <span style="color: #FF6B9D;">🛠️ Tech Stack & Tools</span>
-
-### <span style="color: #00D9FF;">Frontend Development</span>
-React • Next.js • Vue.js • TypeScript • JavaScript • TailwindCSS • HTML5 • CSS3
-
-### <span style="color: #C77DFF;">Backend Development</span>
-Node.js • Python • Express.js • Django • FastAPI
-
-### <span style="color: #FF6B9D;">Databases & Cloud</span>
-MongoDB • PostgreSQL • Supabase • Firebase • AWS • Vercel
-
-### <span style="color: #00D9FF;">Mobile Development</span>
-React Native • Flutter • Ionic
-
-### <span style="color: #C77DFF;">AI/ML & Data Science</span>
-TensorFlow • Pandas • NumPy • OpenAI • Scikit-learn
-
-### <span style="color: #FF6B9D;">Tools & DevOps</span>
-Git • Docker • VS Code • Figma • Postman • Linux
-
----
-
 ## <span style="color: #C77DFF;">🚀 Featured Projects</span>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -78,6 +55,30 @@ Git • Docker • VS Code • Figma • Postman • Linux
 </div>
 
 </div>
+
+## <span style="color: #FF6B9D;">🛠️ Tech Stack & Tools</span>
+
+### <span style="color: #00D9FF;">Frontend Development</span>
+React • Next.js • Vue.js • TypeScript • JavaScript • TailwindCSS • HTML5 • CSS3
+
+### <span style="color: #C77DFF;">Backend Development</span>
+Node.js • Python • Express.js • Django • FastAPI
+
+### <span style="color: #FF6B9D;">Databases & Cloud</span>
+MongoDB • PostgreSQL • Supabase • Firebase • AWS • Vercel
+
+### <span style="color: #00D9FF;">Mobile Development</span>
+React Native • Flutter • Ionic
+
+### <span style="color: #C77DFF;">AI/ML & Data Science</span>
+TensorFlow • Pandas • NumPy • OpenAI • Scikit-learn
+
+### <span style="color: #FF6B9D;">Tools & DevOps</span>
+Git • Docker • VS Code • Figma • Postman • Linux
+
+---
+
+
 
 ---
 
