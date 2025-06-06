@@ -22,7 +22,7 @@
 - 💼 <span style="color: #C77DFF;">**Freelancer & Entrepreneur:**</span> Running **ArtArkTech** - delivering innovative digital solutions
 - 🎯 <span style="color: #00D9FF;">**2024 Goals:**</span> Master AI integration in web applications and launch 3 SaaS products
 - ⚡ <span style="color: #FF6B9D;">**Fun Fact:**</span> *East or West, home is the best!* 🏠 Also, I can debug code faster with coffee ☕
--  <span> **My Website:**</span> <a href="https://blog.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
+-  <span> **My Website:**</span> <a href="artarkk.site" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 
 </div>
 
