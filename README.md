@@ -61,7 +61,7 @@ Git • Docker • VS Code • Figma • Postman • Linux
 <p><span style="color: #C77DFF;">**Features:**</span> Dynamic animations, responsive design, contact forms</p>
 <a href="https://artarktech-company.vercel.app/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 </div>
-
+---
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; width: 300px; margin: 10px;">
 <h3 style="color: #FF6B9D; margin-top: 0;">📱MERN App AI-Powered Blog App</h3>
 <p style="color: #E0E0E0; font-size: 14px;"><em>Completed </em> - Ai-powered blog app</p>
@@ -69,7 +69,7 @@ Git • Docker • VS Code • Figma • Postman • Linux
 <p><span style="color: #C77DFF;">**Tech:**</span> MongoDB, Express, React and Node JS, Google Gemini, Motion, imageKit API</p>
 <p><span style="color: #00D9FF;">**Features:**</span> AI generation, Admin page- where admin can post a new blog and manage existing blogs and comments, </p>
 </div>
-
+---
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #C77DFF; width: 300px; margin: 10px;">
 <h3 style="color: #C77DFF; margin-top: 0;">🛍️ E-Commerce Platform</h3>
 <p style="color: #E0E0E0; font-size: 14px;"><em>In Development</em> - Full-stack e-commerce solution</p>
