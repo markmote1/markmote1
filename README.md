@@ -22,7 +22,7 @@
 - 💼 <span style="color: #C77DFF;">**Freelancer & Entrepreneur:**</span> Running **ArtArkTech** - delivering innovative digital solutions
 - 🎯 <span style="color: #00D9FF;">**2024 Goals:**</span> Master AI integration in web applications and launch 3 SaaS products
 - ⚡ <span style="color: #FF6B9D;">**Fun Fact:**</span> *East or West, home is the best!* 🏠 Also, I can debug code faster with coffee ☕
--  <span> **My Website:**</span> <a href="https://www.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
+-  <span> **My Website:**</span> <a href="https://portfolio.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 
 </div>
 
@@ -36,13 +36,13 @@
 <p style="color: #E0E0E0; font-size: 14px;">Modern, responsive business website with glassmorphism design</p>
 <p><span style="color: #FF6B9D;">**Tech:**</span> Next.js, TailwindCSS, Framer Motion</p>
 <p><span style="color: #C77DFF;">**Features:**</span> Dynamic animations, responsive design, contact forms</p>
-<a href="https://artarktech-company.vercel.app/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
+<a href="https://portfolio.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 </div>
 ---
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; width: 300px; margin: 10px;">
 <h3 style="color: #FF6B9D; margin-top: 0;">📱MERN App AI-Powered Blog App</h3>
 <p style="color: #E0E0E0; font-size: 14px;"><em>Completed </em> - Ai-powered blog app</p>
-  <a href="https://blog.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
+  <a href="https://www.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 <p><span style="color: #C77DFF;">**Tech:**</span> MongoDB, Express, React and Node JS, Google Gemini, Motion, imageKit API</p>
 <p><span style="color: #00D9FF;">**Features:**</span> AI generation, Admin page- where admin can post a new blog and manage existing blogs and comments, </p>
 </div>
