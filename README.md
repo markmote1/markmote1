@@ -1,7 +1,7 @@
 # <span style="color: #00D9FF;"> Hi! 👋 I'm Mark Mote</span> 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Mobile+App+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&height=70&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Mobile+App+Developer;Creative+Problem+Solver;Consistency is key" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 30px 0;">
