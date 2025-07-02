@@ -18,9 +18,7 @@
 
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #00D9FF; width: 300px; margin: 10px;">
   <h3 style="color: #00D9FF; margin-top: 0;">🎨 ArtArkTech Company Website</h3>
-  <p style="color: #E0E0E0; font-size: 14px;">Modern, responsive business website designed with glassmorphism aesthetics.</p>
-  <p><strong style="color: #FF6B9D;">Tech:</strong> Next.js, TailwindCSS, Framer Motion</p>
-  <p><strong style="color: #C77DFF;">Features:</strong> Dynamic animations, responsive layout, contact forms</p>
+  <p style="color: #E0E0E0; font-size: 14px;">Modern, responsive business website designed with glassmorphism aesthetics with an admin panel.</p
   <a href="https://portfolio.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 </div>
 
@@ -28,15 +26,13 @@
   <h3 style="color: #FF6B9D; margin-top: 0;">📱 AI-Powered Blog App</h3>
   <p style="color: #E0E0E0; font-size: 14px;"><em>Completed</em> – Intelligent content platform leveraging AI tools.</p>
   <a href="https://www.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
-  <p><strong style="color: #C77DFF;">Tech:</strong> MongoDB, Express, React, Node.js, Google Gemini, Motion, ImageKit API</p>
-  <p><strong style="color: #00D9FF;">Features:</strong> AI content generation, admin dashboard for managing blogs and comments</p>
+
 </div>
 
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #C77DFF; width: 300px; margin: 10px;">
   <h3 style="color: #C77DFF; margin-top: 0;">🛍️ E-Commerce Platform</h3>
   <p style="color: #E0E0E0; font-size: 14px;"><em>In Development</em> – Full-stack marketplace for tech products.</p>
-  <p><strong style="color: #FF6B9D;">Tech:</strong> Next.js, Supabase, Stripe, M-Pesa, PayPal, TailwindCSS</p>
-  <p><strong style="color: #00D9FF;">Features:</strong> Admin dashboard, inventory system, analytics dashboard</p>
+ 
 </div>
 
 </div>
@@ -50,13 +46,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markmote1&layout=compact&langs_count=8&theme=tokyonight&title_color=FF6B9D&text_color=E0E0E0&bg_color=0f0f23" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markmote1&theme=tokyonight&ring=FF6B9D&fire=00D9FF&currStreakLabel=C77DFF&background=0f0f23" alt="GitHub Streak" />
-</div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markmote1&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=E0E0E0&line=FF6B9D&point=00D9FF" alt="GitHub Activity Graph" />
-</div>
+
+
 
 ---
 
