@@ -8,20 +8,7 @@
   <span style="font-size: 18px; color: #E0E0E0; font-family: 'Inter', sans-serif;">🚀 Passionate-Self Learned Full Stack Developer specializing in building sleek, scalable, and user-centric applications</span>
 </div>
 
----
 
-## <span style="color: #C77DFF;">🧑‍💻 About Me</span>
-
-<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; margin: 20px 0;">
-
-- 🔭 <span style="color: #00D9FF;">**Currently Exploring:**</span> Deep diving into **Python, AI/ML, and Data Science** to expand my technical horizons
-- 🌐 <span style="color: #FF6B9D;">**Web Development Expert:**</span> Proficient in **Next.js, React, Supabase, Node.js, MongoDB, PostgreSQL, TailwindCSS**
-- 📱 <span style="color: #C77DFF;">**Mobile Development:**</span> Building cross-platform applications for **Android & iOS** using React Native and Flutter
-- 🎨 <span style="color: #00D9FF;">**UI/UX Enthusiast:**</span> Creating pixel-perfect, responsive designs that prioritize user experience
-- 🛠️ <span style="color: #FF6B9D;">**DevOps & Cloud:**</span> Experience with **AWS, Vercel, Docker, and CI/CD pipelines**
-- 💼 <span style="color: #C77DFF;">**Freelancer & Entrepreneur:**</span> Running **ArtArkTech** - delivering innovative digital solutions
-- 🎯 <span style="color: #00D9FF;">**2024 Goals:**</span> Master AI integration in web applications and launch 3 SaaS products
-- ⚡ <span style="color: #FF6B9D;">**Fun Fact:**</span> *East or West, home is the best!* 🏠 Also, I can debug code faster with coffee ☕
 -  <span> **My Website:**</span> <a href="https://portfolio.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 
 </div>
@@ -56,31 +43,8 @@
 
 </div>
 
-## <span style="color: #FF6B9D;">🛠️ Tech Stack & Tools</span>
-
-### <span style="color: #00D9FF;">Frontend Development</span>
-React • Next.js • Vue.js • TypeScript • JavaScript • TailwindCSS • HTML5 • CSS3
-
-### <span style="color: #C77DFF;">Backend Development</span>
-Node.js • Python • Express.js • Django • FastAPI
-
-### <span style="color: #FF6B9D;">Databases & Cloud</span>
-MongoDB • PostgreSQL • Supabase • Firebase • AWS • Vercel
-
-### <span style="color: #00D9FF;">Mobile Development</span>
-React Native • Flutter • Ionic
-
-### <span style="color: #C77DFF;">AI/ML & Data Science</span>
-TensorFlow • Pandas • NumPy • OpenAI • Scikit-learn
-
-### <span style="color: #FF6B9D;">Tools & DevOps</span>
-Git • Docker • VS Code • Figma • Postman • Linux
-
----
 
 
-
----
 
 ## <span style="color: #00D9FF;">📊 GitHub Analytics</span>
 
@@ -127,14 +91,6 @@ Git • Docker • VS Code • Figma • Postman • Linux
 
 ---
 
-## <span style="color: #FF6B9D;">🎯 2025 Goals & Aspirations</span>
-
-- [ ] Master **TensorFlow** and build 3 AI-integrated applications
-- [ ] Contribute to **5 open-source projects**
-- [ ] Launch **2 successful SaaS products**
-- [ ] Grow **ArtArkTech** client base to 50+ satisfied customers
-- [ ] Speak at **2 tech conferences** about modern web development
-- [ ] Mentor **10 junior developers** in their coding journey
 
 
 <div align="center" style="margin: 40px 0;">
