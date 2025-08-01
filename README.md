@@ -19,8 +19,9 @@
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #00D9FF; width: 300px; margin: 10px;">
   <h3 style="color: #00D9FF; margin-top: 0;">🎨 ArtArkTech Company Website</h3>
   <p style="color: #E0E0E0; font-size: 14px;">Modern, responsive business website designed with glassmorphism aesthetics with an admin panel.</p
-  <a href="https://portfolio.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
+ 
 </div>
+ <a href="https://portfolio.artarkk.site/" style="color: #00D9FF; text-decoration: none;">🔗 Live Demo</a>
 
 <div style="background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 100%); padding: 25px; border-radius: 15px; border: 1px solid #FF6B9D; width: 300px; margin: 10px;">
   <h3 style="color: #FF6B9D; margin-top: 0;">📱 AI-Powered Blog App</h3>
